@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Colin Frisch!
-#### I'm a recent graduate of CSUC with a degree in Computer Engineering who's currently transitioning to the workforce.
+#### I'm a recent graduate of CSUC with a degree in Computer Engineering currently working as an embedded developer.
 - 📫 How to reach me: Email me at: cafrisch98@gmail.com or check out my [Linkedin](https://www.linkedin.com/in/colin-frisch-b61b58178/)
 - 😄 Pronouns: He/Him
 
