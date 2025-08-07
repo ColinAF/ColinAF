@@ -1,8 +1,11 @@
 ### Hi there 👋 I'm Colin Frisch!
-#### I'm a recent graduate of CSUC with a degree in Computer Engineering currently working as an embedded developer.
-- 📫 How to reach me: Email me at: cafrisch98@gmail.com or check out my [Linkedin](https://www.linkedin.com/in/colin-frisch-b61b58178/)
+#### I currently work at **SSRL** or the [**Stanford Synchrotron Radiation Lightsource**](https://www-ssrl.slac.stanford.edu/ssrl/web/) as a controls engineer working on the SPEAR accelerator.
+#### I'm graduate of CSU Chico with a degree in **Computer Engineering** and I specialize in real time embedded systems working in environments that demand high reliability.
+- 📫 How to reach me:
+  - Email me at: cafrisch98@gmail.com
+  - Check out my [Linkedin](https://www.linkedin.com/in/colin-frisch-b61b58178/)
 - 😄 Pronouns: He/Him
-
+ 
 <!--
 **ColinAF/ColinAF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
