@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Colin Frisch!
-#### I currently work at **SSRL** or the [**Stanford Synchrotron Radiation Lightsource**](https://www-ssrl.slac.stanford.edu/ssrl/web/) as a controls engineer working on the SPEAR accelerator.
+#### I currently work at **SSRL**, or the [**Stanford Synchrotron Radiation Lightsource**](https://www-ssrl.slac.stanford.edu/ssrl/web/), as a controls engineer working on the SPEAR accelerator.
 #### I'm graduate of CSU Chico with a degree in **Computer Engineering** and I specialize in real time embedded systems working in environments that demand high reliability.
 - 📫 How to reach me:
   - Email me at: cafrisch98@gmail.com
